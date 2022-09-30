@@ -1,0 +1,11 @@
+PostRequest
+{
+    "id": 1,
+    "todolist": "task"
+}
+
+GetRequest
+{
+    "id": 0,
+    "todolist": null
+}
